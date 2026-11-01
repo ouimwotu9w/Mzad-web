@@ -1,0 +1,9 @@
+{
+  "name": "مزاد الكورة - Kora Mzad",
+  "description": "لعبة مزاد وتدريب كرة القدم الاستراتيجية مع بطاقات اللاعبين والقدرات الأسطورية والمحاكاة التكتيكية المباشرة",
+  "version": "1.0.0",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,3369 @@
+[
+ {
+  "name": "عليسون بيكر",
+  "club": "ليفربول",
+  "era": "legend",
+  "pos": "GK",
+  "rating": 93
+ },
+ {
+  "name": "تيبو كورتوا",
+  "club": "ريال مدريد",
+  "era": "legend",
+  "pos": "GK",
+  "rating": 93
+ },
+ {
+  "name": "جيانلويجي دوناروما",
+  "club": "مانشستر سيتي",
+  "era": "current",
+  "pos": "GK",
+  "rating": 89
+ },
+ {
+  "name": "دافيد رايا",
+  "club": "أرسنال",
+  "era": "current",
+  "pos": "GK",
+  "rating": 87
+ },
+ {
+  "name": "روبيرت سانشيز",
+  "club": "تشيلسي",
+  "era": "current",
+  "pos": "GK",
+  "rating": 80
+ },
+ {
+  "name": "إيدرسون مورايس",
+  "club": "مانشستر سيتي",
+  "era": "current",
+  "pos": "GK",
+  "rating": 86
+ },
+ {
+  "name": "إميليانو مارتينيز",
+  "club": "أستون فيلا",
+  "era": "current",
+  "pos": "GK",
+  "rating": 88
+ },
+ {
+  "name": "ألكسندر مينيان",
+  "club": "موناكو",
+  "era": "current",
+  "pos": "GK",
+  "rating": 85
+ },
+ {
+  "name": "مارك أندريه تير شتيغن",
+  "club": "برشلونة",
+  "era": "current",
+  "pos": "GK",
+  "rating": 88
+ },
+ {
+  "name": "جوردان بيكفورد",
+  "club": "إيفرتون",
+  "era": "current",
+  "pos": "GK",
+  "rating": 82
+ },
+ {
+  "name": "مانويل نوير",
+  "club": "بايرن ميونخ",
+  "era": "legend",
+  "pos": "GK",
+  "rating": 94
+ },
+ {
+  "name": "ديفيد دي خيا",
+  "club": "فيورنتينا",
+  "era": "current",
+  "pos": "GK",
+  "rating": 86
+ },
+ {
+  "name": "جيانلويجي بوفون",
+  "club": "يوفنتوس",
+  "era": "legend",
+  "pos": "GK",
+  "rating": 93
+ },
+ {
+  "name": "إيكر كاسياس",
+  "club": "ريال مدريد",
+  "era": "legend",
+  "pos": "GK",
+  "rating": 94
+ },
+ {
+  "name": "بيتر شمايكل",
+  "club": "مانشستر يونايتد",
+  "era": "legend",
+  "pos": "GK",
+  "rating": 93
+ },
+ {
+  "name": "ديفيد سيمان",
+  "club": "أرسنال",
+  "era": "legend",
+  "pos": "GK",
+  "rating": 89
+ },
+ {
+  "name": "بيتر تشيك",
+  "club": "تشيلسي",
+  "era": "legend",
+  "pos": "GK",
+  "rating": 93
+ },
+ {
+  "name": "إدوين فان دير سار",
+  "club": "مانشستر يونايتد",
+  "era": "legend",
+  "pos": "GK",
+  "rating": 93
+ },
+ {
+  "name": "ويليام ساليبا",
+  "club": "أرسنال",
+  "era": "current",
+  "pos": "CB",
+  "rating": 89
+ },
+ {
+  "name": "ليفي كولويل",
+  "club": "تشيلسي",
+  "era": "current",
+  "pos": "CB",
+  "rating": 84
+ },
+ {
+  "name": "ويسلي فوفانا",
+  "club": "تشيلسي",
+  "era": "current",
+  "pos": "CB",
+  "rating": 82
+ },
+ {
+  "name": "روبن دياز",
+  "club": "مانشستر سيتي",
+  "era": "current",
+  "pos": "CB",
+  "rating": 89
+ },
+ {
+  "name": "أنطونيو روديغر",
+  "club": "ريال مدريد",
+  "era": "current",
+  "pos": "CB",
+  "rating": 88
+ },
+ {
+  "name": "أليساندرو باستوني",
+  "club": "إنتر ميلان",
+  "era": "current",
+  "pos": "CB",
+  "rating": 87
+ },
+ {
+  "name": "كيم مين جاي",
+  "club": "بايرن ميونخ",
+  "era": "current",
+  "pos": "CB",
+  "rating": 86
+ },
+ {
+  "name": "ماركينيوس",
+  "club": "باريس سان جيرمان",
+  "era": "current",
+  "pos": "CB",
+  "rating": 88
+ },
+ {
+  "name": "داير أوتيميكانو",
+  "club": "بايرن ميونخ",
+  "era": "current",
+  "pos": "CB",
+  "rating": 85
+ },
+ {
+  "name": "جوناثان طاه",
+  "club": "بايرن ميونخ",
+  "era": "current",
+  "pos": "CB",
+  "rating": 84
+ },
+ {
+  "name": "توني آدمز",
+  "club": "أرسنال",
+  "era": "legend",
+  "pos": "CB",
+  "rating": 89
+ },
+ {
+  "name": "جون تيري",
+  "club": "تشيلسي",
+  "era": "legend",
+  "pos": "CB",
+  "rating": 93
+ },
+ {
+  "name": "ريو فرديناند",
+  "club": "مانشستر يونايتد",
+  "era": "legend",
+  "pos": "CB",
+  "rating": 93
+ },
+ {
+  "name": "سول كامبل",
+  "club": "أرسنال",
+  "era": "legend",
+  "pos": "CB",
+  "rating": 88
+ },
+ {
+  "name": "فنسنت كومباني",
+  "club": "مانشستر سيتي",
+  "era": "legend",
+  "pos": "CB",
+  "rating": 90
+ },
+ {
+  "name": "كارليس بويول",
+  "club": "برشلونة",
+  "era": "legend",
+  "pos": "CB",
+  "rating": 90
+ },
+ {
+  "name": "باولو مالديني",
+  "club": "ميلان",
+  "era": "legend",
+  "pos": "CB",
+  "rating": 95
+ },
+ {
+  "name": "أليساندرو نيستا",
+  "club": "ميلان",
+  "era": "legend",
+  "pos": "CB",
+  "rating": 93
+ },
+ {
+  "name": "فرانكو باريزي",
+  "club": "ميلان",
+  "era": "legend",
+  "pos": "CB",
+  "rating": 93
+ },
+ {
+  "name": "فابيو كانافارو",
+  "club": "ريال مدريد",
+  "era": "legend",
+  "pos": "CB",
+  "rating": 93
+ },
+ {
+  "name": "مارسيل ديزايي",
+  "club": "تشيلسي",
+  "era": "legend",
+  "pos": "CB",
+  "rating": 90
+ },
+ {
+  "name": "ريكاردو كارفاليو",
+  "club": "تشيلسي",
+  "era": "legend",
+  "pos": "CB",
+  "rating": 88
+ },
+ {
+  "name": "بن وايت",
+  "club": "أرسنال",
+  "era": "current",
+  "pos": "RB",
+  "rating": 85
+ },
+ {
+  "name": "يوري تيمبر",
+  "club": "أرسنال",
+  "era": "current",
+  "pos": "RB",
+  "rating": 84
+ },
+ {
+  "name": "مالو غوستو",
+  "club": "تشيلسي",
+  "era": "current",
+  "pos": "RB",
+  "rating": 81
+ },
+ {
+  "name": "ريس جيمس",
+  "club": "تشيلسي",
+  "era": "current",
+  "pos": "RB",
+  "rating": 85
+ },
+ {
+  "name": "أشرف حكيمي",
+  "club": "باريس سان جيرمان",
+  "era": "current",
+  "pos": "RB",
+  "rating": 90
+ },
+ {
+  "name": "جواو كانسيلو",
+  "club": "الهلال",
+  "era": "current",
+  "pos": "RB",
+  "rating": 86
+ },
+ {
+  "name": "كايل ووكر",
+  "club": "مانشستر سيتي",
+  "era": "current",
+  "pos": "RB",
+  "rating": 84
+ },
+ {
+  "name": "داني كارفاخال",
+  "club": "ريال مدريد",
+  "era": "current",
+  "pos": "RB",
+  "rating": 86
+ },
+ {
+  "name": "كافو",
+  "club": "ميلان",
+  "era": "legend",
+  "pos": "RB",
+  "rating": 93
+ },
+ {
+  "name": "خافيير زانيتي",
+  "club": "إنتر ميلان",
+  "era": "legend",
+  "pos": "RB",
+  "rating": 93
+ },
+ {
+  "name": "فيليب لام",
+  "club": "بايرن ميونخ",
+  "era": "legend",
+  "pos": "RB",
+  "rating": 93
+ },
+ {
+  "name": "مايكون",
+  "club": "إنتر ميلان",
+  "era": "legend",
+  "pos": "RB",
+  "rating": 89
+ },
+ {
+  "name": "ريكاردو كالافيوري",
+  "club": "أرسنال",
+  "era": "current",
+  "pos": "LB",
+  "rating": 84
+ },
+ {
+  "name": "مايلز لويس سكيلي",
+  "club": "أرسنال",
+  "era": "current",
+  "pos": "LB",
+  "rating": 80
+ },
+ {
+  "name": "مارك كوكوريلا",
+  "club": "تشيلسي",
+  "era": "current",
+  "pos": "LB",
+  "rating": 83
+ },
+ {
+  "name": "ثيو هيرنانديز",
+  "club": "الهلال",
+  "era": "current",
+  "pos": "LB",
+  "rating": 87
+ },
+ {
+  "name": "نونو مينديز",
+  "club": "باريس سان جيرمان",
+  "era": "current",
+  "pos": "LB",
+  "rating": 87
+ },
+ {
+  "name": "أندرو روبرتسون",
+  "club": "ليفربول",
+  "era": "current",
+  "pos": "LB",
+  "rating": 87
+ },
+ {
+  "name": "روبرتو كارلوس",
+  "club": "ريال مدريد",
+  "era": "legend",
+  "pos": "LB",
+  "rating": 94
+ },
+ {
+  "name": "آشلي كول",
+  "club": "تشيلسي",
+  "era": "legend",
+  "pos": "LB",
+  "rating": 93
+ },
+ {
+  "name": "باتريس إيفرا",
+  "club": "مانشستر يونايتد",
+  "era": "legend",
+  "pos": "LB",
+  "rating": 90
+ },
+ {
+  "name": "مارسيلو",
+  "club": "ريال مدريد",
+  "era": "legend",
+  "pos": "LB",
+  "rating": 93
+ },
+ {
+  "name": "دكلان رايس",
+  "club": "أرسنال",
+  "era": "current",
+  "pos": "MID",
+  "rating": 89
+ },
+ {
+  "name": "مارتن أوديغارد",
+  "club": "أرسنال",
+  "era": "current",
+  "pos": "MID",
+  "rating": 89
+ },
+ {
+  "name": "ميكل ميرينو",
+  "club": "أرسنال",
+  "era": "current",
+  "pos": "MID",
+  "rating": 84
+ },
+ {
+  "name": "إيثان نوانيري",
+  "club": "أرسنال",
+  "era": "current",
+  "pos": "MID",
+  "rating": 80
+ },
+ {
+  "name": "مويسيس كايسيدو",
+  "club": "تشيلسي",
+  "era": "current",
+  "pos": "MID",
+  "rating": 88
+ },
+ {
+  "name": "روميو لافيا",
+  "club": "تشيلسي",
+  "era": "current",
+  "pos": "MID",
+  "rating": 81
+ },
+ {
+  "name": "كول بالمر",
+  "club": "تشيلسي",
+  "era": "current",
+  "pos": "MID",
+  "rating": 90
+ },
+ {
+  "name": "فيدريكو فالفيردي",
+  "club": "ريال مدريد",
+  "era": "current",
+  "pos": "MID",
+  "rating": 90
+ },
+ {
+  "name": "جود بيلينغهام",
+  "club": "ريال مدريد",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 93
+ },
+ {
+  "name": "غافي",
+  "club": "برشلونة",
+  "era": "current",
+  "pos": "MID",
+  "rating": 85
+ },
+ {
+  "name": "جمال موسيالا",
+  "club": "بايرن ميونخ",
+  "era": "current",
+  "pos": "MID",
+  "rating": 90
+ },
+ {
+  "name": "كيفن دي بروين",
+  "club": "نابولي",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 94
+ },
+ {
+  "name": "نيكولو باريلا",
+  "club": "إنتر ميلان",
+  "era": "current",
+  "pos": "MID",
+  "rating": 88
+ },
+ {
+  "name": "لوكا مودريتش",
+  "club": "ميلان",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 94
+ },
+ {
+  "name": "برونو فرنانديز",
+  "club": "مانشستر يونايتد",
+  "era": "current",
+  "pos": "MID",
+  "rating": 88
+ },
+ {
+  "name": "ستيفن جيرارد",
+  "club": "ليفربول",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 93
+ },
+ {
+  "name": "فرانك لامبارد",
+  "club": "تشيلسي",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 93
+ },
+ {
+  "name": "بول سكولز",
+  "club": "مانشستر يونايتد",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 93
+ },
+ {
+  "name": "باتريك فييرا",
+  "club": "أرسنال",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 92
+ },
+ {
+  "name": "إيمانويل بيتي",
+  "club": "أرسنال",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 88
+ },
+ {
+  "name": "أندريا بيرلو",
+  "club": "ميلان",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 93
+ },
+ {
+  "name": "جينارو غاتوزو",
+  "club": "ميلان",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 87
+ },
+ {
+  "name": "كلارنس سيدورف",
+  "club": "ميلان",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 90
+ },
+ {
+  "name": "كلود ماكييلي",
+  "club": "تشيلسي",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 89
+ },
+ {
+  "name": "مايكل بالاك",
+  "club": "تشيلسي",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 90
+ },
+ {
+  "name": "تشافي هيرنانديز",
+  "club": "برشلونة",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 95
+ },
+ {
+  "name": "أندريس إنييستا",
+  "club": "برشلونة",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 95
+ },
+ {
+  "name": "سيرجيو بوسكيتس",
+  "club": "برشلونة",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 93
+ },
+ {
+  "name": "زين الدين زيدان",
+  "club": "ريال مدريد",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 97
+ },
+ {
+  "name": "بوكايو ساكا",
+  "club": "أرسنال",
+  "era": "current",
+  "pos": "W",
+  "rating": 91
+ },
+ {
+  "name": "غابرييل مارتينيلي",
+  "club": "أرسنال",
+  "era": "current",
+  "pos": "W",
+  "rating": 84
+ },
+ {
+  "name": "لياندرو تروسار",
+  "club": "أرسنال",
+  "era": "current",
+  "pos": "W",
+  "rating": 83
+ },
+ {
+  "name": "بيدرو نيتو",
+  "club": "تشيلسي",
+  "era": "current",
+  "pos": "W",
+  "rating": 84
+ },
+ {
+  "name": "نونو مادويكي",
+  "club": "أرسنال",
+  "era": "current",
+  "pos": "W",
+  "rating": 81
+ },
+ {
+  "name": "لامين يامال",
+  "club": "برشلونة",
+  "era": "legend",
+  "pos": "W",
+  "rating": 94
+ },
+ {
+  "name": "رافينيا دياز",
+  "club": "برشلونة",
+  "era": "current",
+  "pos": "W",
+  "rating": 91
+ },
+ {
+  "name": "فينيسيوس جونيور",
+  "club": "ريال مدريد",
+  "era": "legend",
+  "pos": "W",
+  "rating": 94
+ },
+ {
+  "name": "رودريغو غوس",
+  "club": "ريال مدريد",
+  "era": "current",
+  "pos": "W",
+  "rating": 88
+ },
+ {
+  "name": "مايكل أوليسي",
+  "club": "بايرن ميونخ",
+  "era": "current",
+  "pos": "W",
+  "rating": 88
+ },
+ {
+  "name": "خفيتشا كفاراتسخيليا",
+  "club": "باريس سان جيرمان",
+  "era": "current",
+  "pos": "W",
+  "rating": 88
+ },
+ {
+  "name": "محمد صلاح",
+  "club": "ليفربول",
+  "era": "legend",
+  "pos": "W",
+  "rating": 94
+ },
+ {
+  "name": "لويس فيغو",
+  "club": "برشلونة",
+  "era": "legend",
+  "pos": "W",
+  "rating": 94
+ },
+ {
+  "name": "رونالدينيو",
+  "club": "برشلونة",
+  "era": "legend",
+  "pos": "W",
+  "rating": 96
+ },
+ {
+  "name": "راين غيغز",
+  "club": "مانشستر يونايتد",
+  "era": "legend",
+  "pos": "W",
+  "rating": 93
+ },
+ {
+  "name": "روبرت بيريز",
+  "club": "أرسنال",
+  "era": "legend",
+  "pos": "W",
+  "rating": 91
+ },
+ {
+  "name": "مارك أوفرمارز",
+  "club": "أرسنال",
+  "era": "legend",
+  "pos": "W",
+  "rating": 89
+ },
+ {
+  "name": "إيدين هازارد",
+  "club": "تشيلسي",
+  "era": "legend",
+  "pos": "W",
+  "rating": 94
+ },
+ {
+  "name": "رياض محرز",
+  "club": "الهلال",
+  "era": "current",
+  "pos": "W",
+  "rating": 89
+ },
+ {
+  "name": "أنجل دي ماريا",
+  "club": "بنفيكا",
+  "era": "legend",
+  "pos": "W",
+  "rating": 91
+ },
+ {
+  "name": "كاي هافيرتز",
+  "club": "أرسنال",
+  "era": "current",
+  "pos": "ST",
+  "rating": 86
+ },
+ {
+  "name": "غابرييل جيسوس",
+  "club": "أرسنال",
+  "era": "current",
+  "pos": "ST",
+  "rating": 83
+ },
+ {
+  "name": "نيكولاس جاكسون",
+  "club": "تشيلسي",
+  "era": "current",
+  "pos": "ST",
+  "rating": 82
+ },
+ {
+  "name": "فيكتور جيوكيريس",
+  "club": "أرسنال",
+  "era": "current",
+  "pos": "ST",
+  "rating": 88
+ },
+ {
+  "name": "ألكسندر إيزاك",
+  "club": "ليفربول",
+  "era": "current",
+  "pos": "ST",
+  "rating": 89
+ },
+ {
+  "name": "فيكتور أوسيمين",
+  "club": "غالطة سراي",
+  "era": "current",
+  "pos": "ST",
+  "rating": 89
+ },
+ {
+  "name": "هاري كين",
+  "club": "بايرن ميونخ",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 93
+ },
+ {
+  "name": "إيرلينغ هالاند",
+  "club": "مانشستر سيتي",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 95
+ },
+ {
+  "name": "كيليان مبابي",
+  "club": "ريال مدريد",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 96
+ },
+ {
+  "name": "روبرت ليفاندوفسكي",
+  "club": "برشلونة",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 93
+ },
+ {
+  "name": "كريم بنزيما",
+  "club": "الاتحاد",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 94
+ },
+ {
+  "name": "لويس سواريز",
+  "club": "إنتر ميامي",
+  "era": "current",
+  "pos": "ST",
+  "rating": 88
+ },
+ {
+  "name": "تييري هنري",
+  "club": "أرسنال",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 96
+ },
+ {
+  "name": "دينيس بيرغكامب",
+  "club": "أرسنال",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 93
+ },
+ {
+  "name": "إيان رايت",
+  "club": "أرسنال",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 91
+ },
+ {
+  "name": "رود فان نيستلروي",
+  "club": "مانشستر يونايتد",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 92
+ },
+ {
+  "name": "واين روني",
+  "club": "مانشستر يونايتد",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 94
+ },
+ {
+  "name": "أندريه شيفشنكو",
+  "club": "ميلان",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 92
+ },
+ {
+  "name": "زلاتان إبراهيموفيتش",
+  "club": "ميلان",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 93
+ },
+ {
+  "name": "صامويل إيتو",
+  "club": "برشلونة",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 92
+ },
+ {
+  "name": "هيرمان كريسبو",
+  "club": "إنتر ميلان",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 90
+ },
+ {
+  "name": "سيرجيو أغويرو",
+  "club": "مانشستر سيتي",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 93
+ },
+ {
+  "name": "إريك كانتونا",
+  "club": "مانشستر يونايتد",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 93
+ },
+ {
+  "name": "أوليفيه جيرو",
+  "club": "ليل",
+  "era": "current",
+  "pos": "ST",
+  "rating": 85
+ },
+ {
+  "name": "ليف ياشين",
+  "club": "دينامو موسكو",
+  "era": "legend",
+  "pos": "GK",
+  "rating": 95
+ },
+ {
+  "name": "غوردون بانكس",
+  "club": "ستوك سيتي",
+  "era": "legend",
+  "pos": "GK",
+  "rating": 93
+ },
+ {
+  "name": "سيب ماير",
+  "club": "بايرن ميونخ",
+  "era": "legend",
+  "pos": "GK",
+  "rating": 93
+ },
+ {
+  "name": "دينو زوف",
+  "club": "يوفنتوس",
+  "era": "legend",
+  "pos": "GK",
+  "rating": 93
+ },
+ {
+  "name": "غريغور كوبل",
+  "club": "باريس سان جيرمان",
+  "era": "current",
+  "pos": "GK",
+  "rating": 88
+ },
+ {
+  "name": "ياسين بونو",
+  "club": "الهلال",
+  "era": "current",
+  "pos": "GK",
+  "rating": 86
+ },
+ {
+  "name": "ميكائيل موريون",
+  "club": "أرسنال",
+  "era": "current",
+  "pos": "GK",
+  "rating": 83
+ },
+ {
+  "name": "فرانتس بكنباور",
+  "club": "بايرن ميونخ",
+  "era": "legend",
+  "pos": "CB",
+  "rating": 94
+ },
+ {
+  "name": "بوبي مور",
+  "club": "وست هام",
+  "era": "legend",
+  "pos": "CB",
+  "rating": 93
+ },
+ {
+  "name": "كارلوس ألبيرتو",
+  "club": "سانتوس",
+  "era": "legend",
+  "pos": "RB",
+  "rating": 94
+ },
+ {
+  "name": "رونالد كومان",
+  "club": "برشلونة",
+  "era": "legend",
+  "pos": "CB",
+  "rating": 88
+ },
+ {
+  "name": "دييغو غودين",
+  "club": "أتلتيكو مدريد",
+  "era": "legend",
+  "pos": "CB",
+  "rating": 88
+ },
+ {
+  "name": "فيرجيل فان دايك",
+  "club": "ليفربول",
+  "era": "legend",
+  "pos": "CB",
+  "rating": 94
+ },
+ {
+  "name": "غابرييل ماغاليايش",
+  "club": "أرسنال",
+  "era": "current",
+  "pos": "CB",
+  "rating": 89
+ },
+ {
+  "name": "كريستيان روميرو",
+  "club": "توتنهام",
+  "era": "current",
+  "pos": "CB",
+  "rating": 88
+ },
+ {
+  "name": "بييل هييتيما",
+  "club": "بايرن ميونخ",
+  "era": "current",
+  "pos": "CB",
+  "rating": 88
+ },
+ {
+  "name": "إيدر ميليتاو",
+  "club": "ريال مدريد",
+  "era": "current",
+  "pos": "CB",
+  "rating": 87
+ },
+ {
+  "name": "بنجامين بافارد",
+  "club": "إنتر",
+  "era": "current",
+  "pos": "CB",
+  "rating": 86
+ },
+ {
+  "name": "دافيد ألابا",
+  "club": "ريال مدريد",
+  "era": "current",
+  "pos": "CB",
+  "rating": 85
+ },
+ {
+  "name": "ماركوس دي ليخت",
+  "club": "يوفنتوس",
+  "era": "current",
+  "pos": "CB",
+  "rating": 85
+ },
+ {
+  "name": "تيرنت ألكسندر أرنولد",
+  "club": "ريال مدريد",
+  "era": "current",
+  "pos": "RB",
+  "rating": 88
+ },
+ {
+  "name": "أندرياس بريمه",
+  "club": "إنتر",
+  "era": "legend",
+  "pos": "LB",
+  "rating": 87
+ },
+ {
+  "name": "ألفونسو ديفيز",
+  "club": "ريال مدريد",
+  "era": "current",
+  "pos": "LB",
+  "rating": 88
+ },
+ {
+  "name": "أليخاندرو غريمالدو",
+  "club": "باير ليفركوزن",
+  "era": "current",
+  "pos": "LB",
+  "rating": 87
+ },
+ {
+  "name": "لوك شاو",
+  "club": "مانشستر يونايتد",
+  "era": "current",
+  "pos": "LB",
+  "rating": 83
+ },
+ {
+  "name": "دييغو مارادونا",
+  "club": "نابولي",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 96
+ },
+ {
+  "name": "يوهان كرويف",
+  "club": "برشلونة",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 95
+ },
+ {
+  "name": "توني كروس",
+  "club": "ريال مدريد",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 93
+ },
+ {
+  "name": "ميشيل بلاتيني",
+  "club": "يوفنتوس",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 94
+ },
+ {
+  "name": "بوبي تشارلتون",
+  "club": "مانشستر يونايتد",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 93
+ },
+ {
+  "name": "زيكو",
+  "club": "فلامنغو",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 93
+ },
+ {
+  "name": "لوتشار ماتيوس",
+  "club": "بايرن ميونخ",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 94
+ },
+ {
+  "name": "دافيد بيكهام",
+  "club": "مانشستر يونايتد",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 91
+ },
+ {
+  "name": "سقراط",
+  "club": "كورينثيانز",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 93
+ },
+ {
+  "name": "ديدي",
+  "club": "بوتافوغو",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 89
+ },
+ {
+  "name": "رودري",
+  "club": "مانشستر سيتي",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 93
+ },
+ {
+  "name": "بيدري",
+  "club": "برشلونة",
+  "era": "current",
+  "pos": "MID",
+  "rating": 91
+ },
+ {
+  "name": "فلوريان ويرتز",
+  "club": "ليفربول",
+  "era": "current",
+  "pos": "MID",
+  "rating": 90
+ },
+ {
+  "name": "فيتينيا",
+  "club": "باريس سان جيرمان",
+  "era": "current",
+  "pos": "MID",
+  "rating": 90
+ },
+ {
+  "name": "إنزو فرنانديز",
+  "club": "تشيلسي",
+  "era": "current",
+  "pos": "MID",
+  "rating": 88
+ },
+ {
+  "name": "إيلكاي غوندوغان",
+  "club": "مانشستر سيتي",
+  "era": "current",
+  "pos": "MID",
+  "rating": 85
+ },
+ {
+  "name": "إدواردو كامافينغا",
+  "club": "ريال مدريد",
+  "era": "current",
+  "pos": "MID",
+  "rating": 84
+ },
+ {
+  "name": "أوريلين تشواميني",
+  "club": "ريال مدريد",
+  "era": "current",
+  "pos": "MID",
+  "rating": 85
+ },
+ {
+  "name": "غارينشا",
+  "club": "برشلونة",
+  "era": "legend",
+  "pos": "W",
+  "rating": 93
+ },
+ {
+  "name": "ريفالدو",
+  "club": "برشلونة",
+  "era": "legend",
+  "pos": "W",
+  "rating": 93
+ },
+ {
+  "name": "رود خوليت",
+  "club": "ميلان",
+  "era": "legend",
+  "pos": "W",
+  "rating": 90
+ },
+ {
+  "name": "ستيفان إيفيربيرغ",
+  "club": "ميلان",
+  "era": "legend",
+  "pos": "W",
+  "rating": 90
+ },
+ {
+  "name": "غاريث بيل",
+  "club": "ريال مدريد",
+  "era": "legend",
+  "pos": "W",
+  "rating": 90
+ },
+ {
+  "name": "أنطوان غريزمان",
+  "club": "أتلتيكو مدريد",
+  "era": "current",
+  "pos": "W",
+  "rating": 88
+ },
+ {
+  "name": "رافاييل لياو",
+  "club": "ميلان",
+  "era": "current",
+  "pos": "W",
+  "rating": 88
+ },
+ {
+  "name": "نيكو ويليامز",
+  "club": "أتلتيك بلباو",
+  "era": "current",
+  "pos": "W",
+  "rating": 87
+ },
+ {
+  "name": "برادلي باركولا",
+  "club": "برشلونة",
+  "era": "current",
+  "pos": "W",
+  "rating": 86
+ },
+ {
+  "name": "كريستيان بوليسيك",
+  "club": "ميلان",
+  "era": "current",
+  "pos": "W",
+  "rating": 86
+ },
+ {
+  "name": "بيليه",
+  "club": "سانتوس",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 97
+ },
+ {
+  "name": "غيرد مولر",
+  "club": "بايرن ميونخ",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 94
+ },
+ {
+  "name": "ماركو فان باستن",
+  "club": "ميلان",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 93
+ },
+ {
+  "name": "روبرتو باجيو",
+  "club": "يوفنتوس",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 93
+ },
+ {
+  "name": "ألفريدو دي ستيفانو",
+  "club": "ريال مدريد",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 93
+ },
+ {
+  "name": "فيرينك بوشكاش",
+  "club": "ريال مدريد",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 93
+ },
+ {
+  "name": "أوزيبيو",
+  "club": "بنفيكا",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 95
+ },
+ {
+  "name": "روماريو",
+  "club": "برشلونة",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 92
+ },
+ {
+  "name": "جورج وياه",
+  "club": "ميلان",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 92
+ },
+ {
+  "name": "كارل-هاينز رومينيغه",
+  "club": "بايرن ميونخ",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 91
+ },
+ {
+  "name": "أليساندرو ديل بييرو",
+  "club": "يوفنتوس",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 91
+ },
+ {
+  "name": "ألان شيرر",
+  "club": "نيوكاسل",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 90
+ },
+ {
+  "name": "جيانفرانكو زولا",
+  "club": "تشيلسي",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 88
+ },
+ {
+  "name": "باولو روسي",
+  "club": "يوفنتوس",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 88
+ },
+ {
+  "name": "جواو بيدرو",
+  "club": "تشيلسي",
+  "era": "current",
+  "pos": "ST",
+  "rating": 85
+ },
+ {
+  "name": "عمر مرموش",
+  "club": "مانشستر سيتي",
+  "era": "current",
+  "pos": "ST",
+  "rating": 85
+ },
+ {
+  "name": "داروين نونيز",
+  "club": "الهلال",
+  "era": "current",
+  "pos": "ST",
+  "rating": 84
+ },
+ {
+  "name": "سيرهو غيراسي",
+  "club": "بوروسيا دورتموند",
+  "era": "current",
+  "pos": "ST",
+  "rating": 84
+ },
+ {
+  "name": "جورج بيست",
+  "club": "مانشستر يونايتد",
+  "era": "legend",
+  "pos": "W",
+  "rating": 93
+ },
+ {
+  "name": "ريمون كوبا",
+  "club": "ريال مدريد",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 90
+ },
+ {
+  "name": "جياتشينتو فاكيتي",
+  "club": "إنتر ميلان",
+  "era": "legend",
+  "pos": "LB",
+  "rating": 94
+ },
+ {
+  "name": "ماريو زاغالو",
+  "club": "البرازيل",
+  "era": "legend",
+  "pos": "W",
+  "rating": 88
+ },
+ {
+  "name": "بيتر شيلتون",
+  "club": "إنجلترا",
+  "era": "legend",
+  "pos": "GK",
+  "rating": 92
+ },
+ {
+  "name": "أوليفر كان",
+  "club": "بايرن ميونخ",
+  "era": "legend",
+  "pos": "GK",
+  "rating": 94
+ },
+ {
+  "name": "ديدا",
+  "club": "ميلان",
+  "era": "legend",
+  "pos": "GK",
+  "rating": 91
+ },
+ {
+  "name": "كلاوديو تافاريل",
+  "club": "البرازيل",
+  "era": "legend",
+  "pos": "GK",
+  "rating": 91
+ },
+ {
+  "name": "فابيان بارتيز",
+  "club": "فرنسا",
+  "era": "legend",
+  "pos": "GK",
+  "rating": 90
+ },
+ {
+  "name": "ينس ليمان",
+  "club": "أرسنال",
+  "era": "legend",
+  "pos": "GK",
+  "rating": 89
+ },
+ {
+  "name": "ريكاردو زامورا",
+  "club": "إسبانيا",
+  "era": "legend",
+  "pos": "GK",
+  "rating": 91
+ },
+ {
+  "name": "بات جينينغز",
+  "club": "توتنهام",
+  "era": "legend",
+  "pos": "GK",
+  "rating": 91
+ },
+ {
+  "name": "نيفيل ساوثهول",
+  "club": "إيفرتون",
+  "era": "legend",
+  "pos": "GK",
+  "rating": 89
+ },
+ {
+  "name": "خوسيه لويس تشيلافيرت",
+  "club": "باراغواي",
+  "era": "legend",
+  "pos": "GK",
+  "rating": 90
+ },
+ {
+  "name": "خورخي كامبوس",
+  "club": "المكسيك",
+  "era": "legend",
+  "pos": "GK",
+  "rating": 88
+ },
+ {
+  "name": "أماديو كاريسو",
+  "club": "ريفر بليت",
+  "era": "legend",
+  "pos": "GK",
+  "rating": 89
+ },
+ {
+  "name": "أنطونيو كارباخال",
+  "club": "المكسيك",
+  "era": "legend",
+  "pos": "GK",
+  "rating": 88
+ },
+ {
+  "name": "رينيه هيغيتا",
+  "club": "كولومبيا",
+  "era": "legend",
+  "pos": "GK",
+  "rating": 88
+ },
+ {
+  "name": "أليكس ستيبني",
+  "club": "مانشستر يونايتد",
+  "era": "legend",
+  "pos": "GK",
+  "rating": 88
+ },
+ {
+  "name": "هارالد شوماخر",
+  "club": "ألمانيا",
+  "era": "legend",
+  "pos": "GK",
+  "rating": 91
+ },
+ {
+  "name": "يان أوبلاك",
+  "club": "أتلتيكو مدريد",
+  "era": "legend",
+  "pos": "GK",
+  "rating": 93
+ },
+ {
+  "name": "فويتشيخ شتشيسني",
+  "club": "يوفنتوس",
+  "era": "current",
+  "pos": "GK",
+  "rating": 87
+ },
+ {
+  "name": "كايلور نافاس",
+  "club": "باريس سان جيرمان",
+  "era": "current",
+  "pos": "GK",
+  "rating": 88
+ },
+ {
+  "name": "يان سومر",
+  "club": "إنتر ميلان",
+  "era": "current",
+  "pos": "GK",
+  "rating": 87
+ },
+ {
+  "name": "أندريه أونانا",
+  "club": "مانشستر يونايتد",
+  "era": "current",
+  "pos": "GK",
+  "rating": 85
+ },
+ {
+  "name": "ياب ستام",
+  "club": "مانشستر يونايتد",
+  "era": "legend",
+  "pos": "CB",
+  "rating": 93
+ },
+ {
+  "name": "لوران بلان",
+  "club": "فرنسا",
+  "era": "legend",
+  "pos": "CB",
+  "rating": 92
+ },
+ {
+  "name": "ليليان تورام",
+  "club": "فرنسا",
+  "era": "legend",
+  "pos": "CB",
+  "rating": 94
+ },
+ {
+  "name": "والتر صامويل",
+  "club": "إنتر ميلان",
+  "era": "legend",
+  "pos": "CB",
+  "rating": 91
+ },
+ {
+  "name": "نيمانيا فيديتش",
+  "club": "مانشستر يونايتد",
+  "era": "legend",
+  "pos": "CB",
+  "rating": 92
+ },
+ {
+  "name": "سامي هيبيا",
+  "club": "ليفربول",
+  "era": "legend",
+  "pos": "CB",
+  "rating": 89
+ },
+ {
+  "name": "فرناندو هييرو",
+  "club": "ريال مدريد",
+  "era": "legend",
+  "pos": "CB",
+  "rating": 93
+ },
+ {
+  "name": "جيرارد بيكيه",
+  "club": "برشلونة",
+  "era": "legend",
+  "pos": "CB",
+  "rating": 92
+ },
+ {
+  "name": "جورجيو كيلليني",
+  "club": "يوفنتوس",
+  "era": "legend",
+  "pos": "CB",
+  "rating": 93
+ },
+ {
+  "name": "ليوناردو بونوتشي",
+  "club": "يوفنتوس",
+  "era": "legend",
+  "pos": "CB",
+  "rating": 91
+ },
+ {
+  "name": "سيرخيو راموس",
+  "club": "ريال مدريد",
+  "era": "legend",
+  "pos": "CB",
+  "rating": 95
+ },
+ {
+  "name": "بيبّي",
+  "club": "ريال مدريد",
+  "era": "legend",
+  "pos": "CB",
+  "rating": 91
+ },
+ {
+  "name": "أليساندرو كوستاكورتا",
+  "club": "ميلان",
+  "era": "legend",
+  "pos": "CB",
+  "rating": 91
+ },
+ {
+  "name": "غاري باليستر",
+  "club": "مانشستر يونايتد",
+  "era": "legend",
+  "pos": "CB",
+  "rating": 89
+ },
+ {
+  "name": "دانييل باساريلا",
+  "club": "الأرجنتين",
+  "era": "legend",
+  "pos": "CB",
+  "rating": 93
+ },
+ {
+  "name": "غونتر نتزر",
+  "club": "ألمانيا",
+  "era": "legend",
+  "pos": "CB",
+  "rating": 88
+ },
+ {
+  "name": "مانفريد كالتز",
+  "club": "هامبورغ",
+  "era": "legend",
+  "pos": "CB",
+  "rating": 88
+ },
+ {
+  "name": "فرانك دي بور",
+  "club": "أياكس",
+  "era": "legend",
+  "pos": "CB",
+  "rating": 90
+ },
+ {
+  "name": "داني بليند",
+  "club": "أياكس",
+  "era": "legend",
+  "pos": "CB",
+  "rating": 89
+ },
+ {
+  "name": "ماريو يبيس",
+  "club": "كولومبيا",
+  "era": "legend",
+  "pos": "CB",
+  "rating": 88
+ },
+ {
+  "name": "كارل هاينز فورستر",
+  "club": "شتوتغارت",
+  "era": "legend",
+  "pos": "CB",
+  "rating": 89
+ },
+ {
+  "name": "أولغ بوغريبنياك",
+  "club": "الاتحاد السوفيتي",
+  "era": "legend",
+  "pos": "CB",
+  "rating": 87
+ },
+ {
+  "name": "مارتن كيون",
+  "club": "أرسنال",
+  "era": "legend",
+  "pos": "CB",
+  "rating": 90
+ },
+ {
+  "name": "جون أوشي",
+  "club": "مانشستر يونايتد",
+  "era": "legend",
+  "pos": "CB",
+  "rating": 87
+ },
+ {
+  "name": "ماتس هوملز",
+  "club": "ألمانيا",
+  "era": "legend",
+  "pos": "CB",
+  "rating": 90
+ },
+ {
+  "name": "تياغو سيلفا",
+  "club": "تشيلسي",
+  "era": "legend",
+  "pos": "CB",
+  "rating": 91
+ },
+ {
+  "name": "دافيد لويز",
+  "club": "تشيلسي",
+  "era": "legend",
+  "pos": "CB",
+  "rating": 87
+ },
+ {
+  "name": "أليكس",
+  "club": "تشيلسي",
+  "era": "legend",
+  "pos": "CB",
+  "rating": 88
+ },
+ {
+  "name": "ريكاردو غوميز",
+  "club": "البرازيل",
+  "era": "legend",
+  "pos": "CB",
+  "rating": 89
+ },
+ {
+  "name": "ماورو تاسوتي",
+  "club": "ميلان",
+  "era": "legend",
+  "pos": "CB",
+  "rating": 89
+ },
+ {
+  "name": "باولو مونتيرو",
+  "club": "يوفنتوس",
+  "era": "legend",
+  "pos": "CB",
+  "rating": 89
+ },
+ {
+  "name": "ماركوس سينيسي",
+  "club": "بورنموث",
+  "era": "current",
+  "pos": "CB",
+  "rating": 84
+ },
+ {
+  "name": "رونالد أراوخو",
+  "club": "برشلونة",
+  "era": "current",
+  "pos": "CB",
+  "rating": 88
+ },
+ {
+  "name": "إبراهيما كوناتي",
+  "club": "ليفربول",
+  "era": "current",
+  "pos": "CB",
+  "rating": 87
+ },
+ {
+  "name": "يوشكو غفارديول",
+  "club": "مانشستر سيتي",
+  "era": "current",
+  "pos": "CB",
+  "rating": 89
+ },
+ {
+  "name": "أنطونيو سيلفا",
+  "club": "بنفيكا",
+  "era": "current",
+  "pos": "CB",
+  "rating": 86
+ },
+ {
+  "name": "ويليام باتشو",
+  "club": "باريس سان جيرمان",
+  "era": "current",
+  "pos": "CB",
+  "rating": 86
+ },
+ {
+  "name": "أليساندرو بونجورنو",
+  "club": "نابولي",
+  "era": "current",
+  "pos": "CB",
+  "rating": 85
+ },
+ {
+  "name": "غاري نيفيل",
+  "club": "مانشستر يونايتد",
+  "era": "legend",
+  "pos": "RB",
+  "rating": 93
+ },
+ {
+  "name": "داني ألفيش",
+  "club": "برشلونة",
+  "era": "legend",
+  "pos": "RB",
+  "rating": 94
+ },
+ {
+  "name": "بيرتي فوغتس",
+  "club": "ألمانيا",
+  "era": "legend",
+  "pos": "RB",
+  "rating": 93
+ },
+ {
+  "name": "جيانلوكا زامبروتا",
+  "club": "إيطاليا",
+  "era": "legend",
+  "pos": "RB",
+  "rating": 91
+ },
+ {
+  "name": "جورجينيو",
+  "club": "إيطاليا",
+  "era": "legend",
+  "pos": "RB",
+  "rating": 88
+ },
+ {
+  "name": "مانفريد شافير",
+  "club": "أستراليا",
+  "era": "legend",
+  "pos": "RB",
+  "rating": 87
+ },
+ {
+  "name": "داريو سرنا",
+  "club": "شاختار دونيتسك",
+  "era": "legend",
+  "pos": "RB",
+  "rating": 89
+ },
+ {
+  "name": "ألفارو أربيلوا",
+  "club": "ريال مدريد",
+  "era": "legend",
+  "pos": "RB",
+  "rating": 87
+ },
+ {
+  "name": "ميشيل سالغادو",
+  "club": "ريال مدريد",
+  "era": "legend",
+  "pos": "RB",
+  "rating": 90
+ },
+ {
+  "name": "كريستيان زيج",
+  "club": "ألمانيا",
+  "era": "legend",
+  "pos": "RB",
+  "rating": 88
+ },
+ {
+  "name": "جوشوا كيميش",
+  "club": "بايرن ميونخ",
+  "era": "current",
+  "pos": "RB",
+  "rating": 90
+ },
+ {
+  "name": "بيدرو بورو",
+  "club": "توتنهام",
+  "era": "current",
+  "pos": "RB",
+  "rating": 86
+ },
+ {
+  "name": "جيريمي فريمبونغ",
+  "club": "ليفربول",
+  "era": "current",
+  "pos": "RB",
+  "rating": 88
+ },
+ {
+  "name": "دينزل دومفريس",
+  "club": "إنتر ميلان",
+  "era": "current",
+  "pos": "RB",
+  "rating": 87
+ },
+ {
+  "name": "جيوفاني دي لورينزو",
+  "club": "نابولي",
+  "era": "current",
+  "pos": "RB",
+  "rating": 86
+ },
+ {
+  "name": "دينيس إروين",
+  "club": "مانشستر يونايتد",
+  "era": "legend",
+  "pos": "LB",
+  "rating": 91
+ },
+ {
+  "name": "بول برايتنر",
+  "club": "بايرن ميونخ",
+  "era": "legend",
+  "pos": "LB",
+  "rating": 93
+ },
+ {
+  "name": "رود كرول",
+  "club": "أياكس",
+  "era": "legend",
+  "pos": "LB",
+  "rating": 92
+ },
+ {
+  "name": "إريك أبيدال",
+  "club": "برشلونة",
+  "era": "legend",
+  "pos": "LB",
+  "rating": 89
+ },
+ {
+  "name": "بيكسنتي ليزارازو",
+  "club": "بايرن ميونخ",
+  "era": "legend",
+  "pos": "LB",
+  "rating": 90
+ },
+ {
+  "name": "جيوفاني فان برونكهورست",
+  "club": "برشلونة",
+  "era": "legend",
+  "pos": "LB",
+  "rating": 89
+ },
+ {
+  "name": "سيلفينيو",
+  "club": "برشلونة",
+  "era": "legend",
+  "pos": "LB",
+  "rating": 87
+ },
+ {
+  "name": "فيليبي لويس",
+  "club": "أتلتيكو مدريد",
+  "era": "legend",
+  "pos": "LB",
+  "rating": 89
+ },
+ {
+  "name": "خوان بابلو سورين",
+  "club": "الأرجنتين",
+  "era": "legend",
+  "pos": "LB",
+  "rating": 88
+ },
+ {
+  "name": "نيتون سانتوس",
+  "club": "البرازيل",
+  "era": "legend",
+  "pos": "LB",
+  "rating": 93
+ },
+ {
+  "name": "أنتونيو كابريني",
+  "club": "يوفنتوس",
+  "era": "legend",
+  "pos": "LB",
+  "rating": 93
+ },
+ {
+  "name": "روبير بيريس",
+  "club": "أرسنال",
+  "era": "legend",
+  "pos": "LB",
+  "rating": 88
+ },
+ {
+  "name": "أليخاندرو بالدي",
+  "club": "برشلونة",
+  "era": "current",
+  "pos": "LB",
+  "rating": 86
+ },
+ {
+  "name": "فيرلان ميندي",
+  "club": "ريال مدريد",
+  "era": "current",
+  "pos": "LB",
+  "rating": 85
+ },
+ {
+  "name": "أوليكساندر زينتشينكو",
+  "club": "أرسنال",
+  "era": "current",
+  "pos": "LB",
+  "rating": 85
+ },
+ {
+  "name": "ديستني أودوجي",
+  "club": "توتنهام",
+  "era": "current",
+  "pos": "LB",
+  "rating": 85
+ },
+ {
+  "name": "فرانك ريكارد",
+  "club": "ميلان",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 94
+ },
+ {
+  "name": "روي كين",
+  "club": "مانشستر يونايتد",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 93
+ },
+ {
+  "name": "تشابي ألونسو",
+  "club": "ليفربول",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 93
+ },
+ {
+  "name": "يايا توريه",
+  "club": "مانشستر سيتي",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 93
+ },
+ {
+  "name": "كاكا",
+  "club": "ميلان",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 94
+ },
+ {
+  "name": "خوان رومان ريكيلمي",
+  "club": "بوكا جونيورز",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 93
+ },
+ {
+  "name": "براين روبسون",
+  "club": "مانشستر يونايتد",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 93
+ },
+ {
+  "name": "مايكل لاودروب",
+  "club": "برشلونة",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 93
+ },
+ {
+  "name": "براين لاودروب",
+  "club": "الدنمارك",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 90
+ },
+ {
+  "name": "روي كوستا",
+  "club": "ميلان",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 91
+ },
+ {
+  "name": "ديكو",
+  "club": "برشلونة",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 93
+ },
+ {
+  "name": "جونينيو بيرنامبوكانو",
+  "club": "ليون",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 90
+ },
+ {
+  "name": "غيورغي حاجي",
+  "club": "رومانيا",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 92
+ },
+ {
+  "name": "إدغار دافيدز",
+  "club": "يوفنتوس",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 90
+ },
+ {
+  "name": "باستيان شفاينشتايغر",
+  "club": "بايرن ميونخ",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 93
+ },
+ {
+  "name": "غوتي",
+  "club": "ريال مدريد",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 90
+ },
+ {
+  "name": "دافيد سيلفا",
+  "club": "مانشستر سيتي",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 93
+ },
+ {
+  "name": "سيسك فابريغاس",
+  "club": "أرسنال",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 91
+ },
+ {
+  "name": "مسعود أوزيل",
+  "club": "أرسنال",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 91
+ },
+ {
+  "name": "خوان ماتا",
+  "club": "تشيلسي",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 88
+ },
+ {
+  "name": "مايكل كاريك",
+  "club": "مانشستر يونايتد",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 89
+ },
+ {
+  "name": "مارك فان بومل",
+  "club": "ميلان",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 89
+ },
+ {
+  "name": "سامي خضيرة",
+  "club": "ريال مدريد",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 89
+ },
+ {
+  "name": "ميشيل إيسيان",
+  "club": "تشيلسي",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 90
+ },
+ {
+  "name": "أوسيبيو دي فرانشيسكو",
+  "club": "إيطاليا",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 87
+ },
+ {
+  "name": "فالكاو",
+  "club": "روما",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 89
+ },
+ {
+  "name": "فرانشيسكو توتي",
+  "club": "روما",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 94
+ },
+ {
+  "name": "باڤل نيدفيد",
+  "club": "يوفنتوس",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 93
+ },
+ {
+  "name": "كريستيان إريكسن",
+  "club": "توتنهام",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 89
+ },
+ {
+  "name": "أندرياس مولر",
+  "club": "ألمانيا",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 89
+ },
+ {
+  "name": "ديفيد بلات",
+  "club": "إنجلترا",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 88
+ },
+ {
+  "name": "لويس سواريز ميرامونتيس",
+  "club": "إنتر ميلان",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 91
+ },
+ {
+  "name": "فرناندو ريدوندو",
+  "club": "ريال مدريد",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 92
+ },
+ {
+  "name": "أنطونيو كونتي",
+  "club": "يوفنتوس",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 88
+ },
+ {
+  "name": "أليكسيس ماك أليستر",
+  "club": "ليفربول",
+  "era": "current",
+  "pos": "MID",
+  "rating": 87
+ },
+ {
+  "name": "دومينيك سوبوسلاي",
+  "club": "ليفربول",
+  "era": "current",
+  "pos": "MID",
+  "rating": 86
+ },
+ {
+  "name": "مارتن زوبيميندي",
+  "club": "أرسنال",
+  "era": "current",
+  "pos": "MID",
+  "rating": 86
+ },
+ {
+  "name": "برونو غيمارايش",
+  "club": "نيوكاسل",
+  "era": "current",
+  "pos": "MID",
+  "rating": 87
+ },
+ {
+  "name": "ساندرو تونالي",
+  "club": "نيوكاسل",
+  "era": "current",
+  "pos": "MID",
+  "rating": 86
+ },
+ {
+  "name": "جواو نيفيش",
+  "club": "باريس سان جيرمان",
+  "era": "current",
+  "pos": "MID",
+  "rating": 88
+ },
+ {
+  "name": "برناردو سيلفا",
+  "club": "مانشستر سيتي",
+  "era": "current",
+  "pos": "MID",
+  "rating": 89
+ },
+ {
+  "name": "إيبيريشي إيزي",
+  "club": "كريستال بالاس",
+  "era": "current",
+  "pos": "MID",
+  "rating": 85
+ },
+ {
+  "name": "جيمس ماديسون",
+  "club": "توتنهام",
+  "era": "current",
+  "pos": "MID",
+  "rating": 85
+ },
+ {
+  "name": "فيل فودين",
+  "club": "مانشستر سيتي",
+  "era": "current",
+  "pos": "MID",
+  "rating": 91
+ },
+ {
+  "name": "ماسون ماونت",
+  "club": "مانشستر يونايتد",
+  "era": "current",
+  "pos": "MID",
+  "rating": 84
+ },
+ {
+  "name": "كورتيس جونز",
+  "club": "ليفربول",
+  "era": "current",
+  "pos": "MID",
+  "rating": 84
+ },
+ {
+  "name": "كارلوس فالديراما",
+  "club": "كولومبيا",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 91
+ },
+ {
+  "name": "إيفان راكيتيتش",
+  "club": "برشلونة",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 90
+ },
+ {
+  "name": "آرثر ميلو",
+  "club": "يوفنتوس",
+  "era": "current",
+  "pos": "MID",
+  "rating": 83
+ },
+ {
+  "name": "ستانلي ماثيوز",
+  "club": "إنجلترا",
+  "era": "legend",
+  "pos": "W",
+  "rating": 93
+ },
+ {
+  "name": "جاييرزينيو",
+  "club": "البرازيل",
+  "era": "legend",
+  "pos": "W",
+  "rating": 93
+ },
+ {
+  "name": "دافيد جينولا",
+  "club": "توتنهام",
+  "era": "legend",
+  "pos": "W",
+  "rating": 89
+ },
+ {
+  "name": "فرانك ريبيري",
+  "club": "بايرن ميونخ",
+  "era": "legend",
+  "pos": "W",
+  "rating": 93
+ },
+ {
+  "name": "آريين روبن",
+  "club": "بايرن ميونخ",
+  "era": "legend",
+  "pos": "W",
+  "rating": 94
+ },
+ {
+  "name": "ديفيد بيكهام",
+  "club": "مانشستر يونايتد",
+  "era": "legend",
+  "pos": "W",
+  "rating": 93
+ },
+ {
+  "name": "روبرتو دونادوني",
+  "club": "ميلان",
+  "era": "legend",
+  "pos": "W",
+  "rating": 90
+ },
+ {
+  "name": "جون بارنز",
+  "club": "ليفربول",
+  "era": "legend",
+  "pos": "W",
+  "rating": 90
+ },
+ {
+  "name": "دافور شوكر",
+  "club": "كرواتيا",
+  "era": "legend",
+  "pos": "W",
+  "rating": 89
+ },
+ {
+  "name": "أوليغ بلوخين",
+  "club": "دينامو كييف",
+  "era": "legend",
+  "pos": "W",
+  "rating": 90
+ },
+ {
+  "name": "كيني دالغليش",
+  "club": "ليفربول",
+  "era": "legend",
+  "pos": "W",
+  "rating": 94
+ },
+ {
+  "name": "فرانشيسكو جينتو",
+  "club": "ريال مدريد",
+  "era": "legend",
+  "pos": "W",
+  "rating": 89
+ },
+ {
+  "name": "سافيتشيفيتش",
+  "club": "ميلان",
+  "era": "legend",
+  "pos": "W",
+  "rating": 90
+ },
+ {
+  "name": "دراگان ستويكوفيتش",
+  "club": "يوغوسلافيا",
+  "era": "legend",
+  "pos": "W",
+  "rating": 89
+ },
+ {
+  "name": "لويس دياز",
+  "club": "ليفربول",
+  "era": "current",
+  "pos": "W",
+  "rating": 87
+ },
+ {
+  "name": "سون هيونغ مين",
+  "club": "توتنهام",
+  "era": "current",
+  "pos": "W",
+  "rating": 89
+ },
+ {
+  "name": "عثمان ديمبيلي",
+  "club": "باريس سان جيرمان",
+  "era": "current",
+  "pos": "W",
+  "rating": 89
+ },
+ {
+  "name": "ليروي ساني",
+  "club": "بايرن ميونخ",
+  "era": "current",
+  "pos": "W",
+  "rating": 87
+ },
+ {
+  "name": "ساديو ماني",
+  "club": "النصر",
+  "era": "current",
+  "pos": "W",
+  "rating": 89
+ },
+ {
+  "name": "جواو فيليكس",
+  "club": "تشيلسي",
+  "era": "current",
+  "pos": "W",
+  "rating": 85
+ },
+ {
+  "name": "أليخاندرو غارناتشو",
+  "club": "مانشستر يونايتد",
+  "era": "current",
+  "pos": "W",
+  "rating": 85
+ },
+ {
+  "name": "إسماعيل بن ناصر",
+  "club": "ميلان",
+  "era": "current",
+  "pos": "W",
+  "rating": 84
+ },
+ {
+  "name": "كلاوديو كانيجيا",
+  "club": "الأرجنتين",
+  "era": "legend",
+  "pos": "W",
+  "rating": 90
+ },
+ {
+  "name": "بيير ليتبارسكي",
+  "club": "ألمانيا",
+  "era": "legend",
+  "pos": "W",
+  "rating": 89
+ },
+ {
+  "name": "دراغان دزاجيتش",
+  "club": "النجم الأحمر",
+  "era": "legend",
+  "pos": "W",
+  "rating": 91
+ },
+ {
+  "name": "هوغو سانشيز",
+  "club": "ريال مدريد",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 94
+ },
+ {
+  "name": "جيمي غريفز",
+  "club": "توتنهام",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 94
+ },
+ {
+  "name": "ديكسي دين",
+  "club": "إيفرتون",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 91
+ },
+ {
+  "name": "غونار نوردال",
+  "club": "ميلان",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 93
+ },
+ {
+  "name": "إيان راش",
+  "club": "ليفربول",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 91
+ },
+ {
+  "name": "مايكل أوين",
+  "club": "ليفربول",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 91
+ },
+ {
+  "name": "غابرييل باتيستوتا",
+  "club": "روما",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 94
+ },
+ {
+  "name": "ماريو كيمبس",
+  "club": "الأرجنتين",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 92
+ },
+ {
+  "name": "هيرستو ستويتشكوف",
+  "club": "برشلونة",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 93
+ },
+ {
+  "name": "يوست فونتين",
+  "club": "فرنسا",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 92
+ },
+ {
+  "name": "بيبيتو",
+  "club": "البرازيل",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 90
+ },
+ {
+  "name": "إدينسون كافاني",
+  "club": "أوروغواي",
+  "era": "current",
+  "pos": "ST",
+  "rating": 89
+ },
+ {
+  "name": "يورغن كلينسمان",
+  "club": "إنتر ميلان",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 92
+ },
+ {
+  "name": "كريستيان فييري",
+  "club": "إنتر ميلان",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 92
+ },
+ {
+  "name": "فيليبو إنزاغي",
+  "club": "ميلان",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 91
+ },
+ {
+  "name": "دافيد تريزيغيه",
+  "club": "يوفنتوس",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 91
+ },
+ {
+  "name": "لوكا توني",
+  "club": "بايرن ميونخ",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 89
+ },
+ {
+  "name": "ألان سميث",
+  "club": "أرسنال",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 88
+ },
+ {
+  "name": "ديدييه دروغبا",
+  "club": "تشيلسي",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 93
+ },
+ {
+  "name": "رونالدو نازاريو",
+  "club": "البرازيل",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 98
+ },
+ {
+  "name": "راؤول غونزاليس",
+  "club": "ريال مدريد",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 94
+ },
+ {
+  "name": "دينيس لو",
+  "club": "مانشستر يونايتد",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 93
+ },
+ {
+  "name": "لاوتارو مارتينيز",
+  "club": "إنتر ميلان",
+  "era": "current",
+  "pos": "ST",
+  "rating": 91
+ },
+ {
+  "name": "جوليان ألفاريز",
+  "club": "أتلتيكو مدريد",
+  "era": "current",
+  "pos": "ST",
+  "rating": 89
+ },
+ {
+  "name": "أولي واتكينز",
+  "club": "أستون فيلا",
+  "era": "current",
+  "pos": "ST",
+  "rating": 87
+ },
+ {
+  "name": "بنجامين شيشكو",
+  "club": "مانشستر يونايتد",
+  "era": "current",
+  "pos": "ST",
+  "rating": 86
+ },
+ {
+  "name": "فيكتور بونيفاس",
+  "club": "باير ليفركوزن",
+  "era": "current",
+  "pos": "ST",
+  "rating": 86
+ },
+ {
+  "name": "جوناثان ديفيد",
+  "club": "يوفنتوس",
+  "era": "current",
+  "pos": "ST",
+  "rating": 87
+ },
+ {
+  "name": "ألكسندر سورلوث",
+  "club": "أتلتيكو مدريد",
+  "era": "current",
+  "pos": "ST",
+  "rating": 86
+ },
+ {
+  "name": "دوشان فلاهوفيتش",
+  "club": "يوفنتوس",
+  "era": "current",
+  "pos": "ST",
+  "rating": 87
+ },
+ {
+  "name": "كريستوفر نكونكو",
+  "club": "تشيلسي",
+  "era": "current",
+  "pos": "ST",
+  "rating": 86
+ },
+ {
+  "name": "لويس أوبيندا",
+  "club": "لايبزيغ",
+  "era": "current",
+  "pos": "ST",
+  "rating": 87
+ },
+ {
+  "name": "جيانلوكا فيالي",
+  "club": "يوفنتوس",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 92
+ },
+ {
+  "name": "يان كولر",
+  "club": "بوروسيا دورتموند",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 90
+ },
+ {
+  "name": "ميلان باروش",
+  "club": "ليفربول",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 88
+ },
+ {
+  "name": "شاندور كوتشيس",
+  "club": "المجر",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 94
+ },
+ {
+  "name": "ليونيل ميسي",
+  "club": "إنتر ميامي",
+  "era": "legend",
+  "pos": "W",
+  "rating": 98
+ },
+ {
+  "name": "كريستيانو رونالدو",
+  "club": "النصر",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 97
+ },
+ {
+  "name": "نيمار جونيور",
+  "club": "سانتوس",
+  "era": "legend",
+  "pos": "W",
+  "rating": 93
+ },
+ {
+  "name": "جالما سانتوس",
+  "club": "بالميراس",
+  "era": "legend",
+  "pos": "RB",
+  "rating": 94
+ },
+ {
+  "name": "غايتانو سكيريا",
+  "club": "يوفنتوس",
+  "era": "legend",
+  "pos": "CB",
+  "rating": 94
+ },
+ {
+  "name": "إلياس فيغيروا",
+  "club": "إنترناسيونال",
+  "era": "legend",
+  "pos": "CB",
+  "rating": 93
+ },
+ {
+  "name": "روبرتو ريفيلينو",
+  "club": "كورينثيانز",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 93
+ },
+ {
+  "name": "يوهان نيسكنز",
+  "club": "أياكس",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 93
+ },
+ {
+  "name": "غونزالو إيغواين",
+  "club": "يوفنتوس",
+  "era": "current",
+  "pos": "ST",
+  "rating": 84
+ },
+ {
+  "name": "ديزيري دويه",
+  "club": "باريس سان جيرمان",
+  "era": "current",
+  "pos": "W",
+  "rating": 87
+ },
+ {
+  "name": "كينان يلدز",
+  "club": "يوفنتوس",
+  "era": "current",
+  "pos": "W",
+  "rating": 85
+ },
+ {
+  "name": "أردا غولر",
+  "club": "ريال مدريد",
+  "era": "current",
+  "pos": "W",
+  "rating": 85
+ },
+ {
+  "name": "باو كوبارسي",
+  "club": "برشلونة",
+  "era": "current",
+  "pos": "CB",
+  "rating": 87
+ },
+ {
+  "name": "دين هويسن",
+  "club": "ريال مدريد",
+  "era": "current",
+  "pos": "CB",
+  "rating": 84
+ },
+ {
+  "name": "إندريك فيليبي",
+  "club": "ريال مدريد",
+  "era": "current",
+  "pos": "ST",
+  "rating": 83
+ },
+ {
+  "name": "إستيفاو ويليان",
+  "club": "تشيلسي",
+  "era": "current",
+  "pos": "W",
+  "rating": 84
+ },
+ {
+  "name": "كوبي ماينو",
+  "club": "مانشستر يونايتد",
+  "era": "current",
+  "pos": "MID",
+  "rating": 83
+ },
+ {
+  "name": "نيكو باز",
+  "club": "كومو",
+  "era": "current",
+  "pos": "MID",
+  "rating": 84
+ },
+ {
+  "name": "أنتوني جوردون",
+  "club": "نيوكاسل",
+  "era": "current",
+  "pos": "W",
+  "rating": 85
+ },
+ {
+  "name": "برايان مبيومو",
+  "club": "مانشستر يونايتد",
+  "era": "current",
+  "pos": "W",
+  "rating": 86
+ },
+ {
+  "name": "ريان غرافنبيرخ",
+  "club": "ليفربول",
+  "era": "current",
+  "pos": "MID",
+  "rating": 87
+ },
+ {
+  "name": "أنطوان سيمينيو",
+  "club": "مانشستر سيتي",
+  "era": "current",
+  "pos": "W",
+  "rating": 84
+ },
+ {
+  "name": "ليني يورو",
+  "club": "مانشستر يونايتد",
+  "era": "current",
+  "pos": "CB",
+  "rating": 84
+ },
+ {
+  "name": "لوكاس بيرالدو",
+  "club": "باريس سان جيرمان",
+  "era": "current",
+  "pos": "MID",
+  "rating": 82
+ },
+ {
+  "name": "محمود تريزيغيه",
+  "club": "الأهلي",
+  "era": "current",
+  "pos": "W",
+  "rating": 81
+ },
+ {
+  "name": "محمد الشناوي",
+  "club": "الأهلي",
+  "era": "current",
+  "pos": "GK",
+  "rating": 83
+ },
+ {
+  "name": "محمد أبو تريكة",
+  "club": "الأهلي",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 91
+ },
+ {
+  "name": "محمود الخطيب",
+  "club": "الأهلي",
+  "era": "legend",
+  "pos": "W",
+  "rating": 91
+ },
+ {
+  "name": "حسام حسن",
+  "club": "الأهلي",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 88
+ },
+ {
+  "name": "عصام الحضري",
+  "club": "الأهلي",
+  "era": "legend",
+  "pos": "GK",
+  "rating": 89
+ },
+ {
+  "name": "محمد زيدان",
+  "club": "بوروسيا دورتموند",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 87
+ },
+ {
+  "name": "أحمد حسام ميدو",
+  "club": "توتنهام",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 87
+ },
+ {
+  "name": "محمد أبو جريشة",
+  "club": "الإسماعيلي",
+  "era": "legend",
+  "pos": "W",
+  "rating": 86
+ },
+ {
+  "name": "هاني رمزي",
+  "club": "فيردر بريمن",
+  "era": "legend",
+  "pos": "CB",
+  "rating": 85
+ },
+ {
+  "name": "كلاوديو جنتيلي",
+  "club": "يوفنتوس",
+  "era": "legend",
+  "pos": "CB",
+  "rating": 92
+ },
+ {
+  "name": "باتريك كلويفرت",
+  "club": "أياكس",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 89
+ },
+ {
+  "name": "ديفيد رايا",
+  "club": "أرسنال",
+  "era": "current",
+  "pos": "GK",
+  "rating": 87
+ },
+ {
+  "name": "جوان غارسيا",
+  "club": "برشلونة",
+  "era": "current",
+  "pos": "GK",
+  "rating": 84
+ },
+ {
+  "name": "ديوغو كوستا",
+  "club": "بورتو",
+  "era": "current",
+  "pos": "GK",
+  "rating": 85
+ },
+ {
+  "name": "ترينت ألكسندر أرنولد",
+  "club": "ريال مدريد",
+  "era": "current",
+  "pos": "RB",
+  "rating": 90
+ },
+ {
+  "name": "ألفونسو ديفيس",
+  "club": "بايرن ميونخ",
+  "era": "current",
+  "pos": "LB",
+  "rating": 87
+ },
+ {
+  "name": "أليكس غريمالدو",
+  "club": "ليفركوزن",
+  "era": "current",
+  "pos": "LB",
+  "rating": 86
+ },
+ {
+  "name": "ميليتاو",
+  "club": "ريال مدريد",
+  "era": "current",
+  "pos": "CB",
+  "rating": 87
+ },
+ {
+  "name": "أليساندرو بوونجورنو",
+  "club": "نابولي",
+  "era": "current",
+  "pos": "CB",
+  "rating": 85
+ },
+ {
+  "name": "ألكسيس ماك أليستر",
+  "club": "ليفربول",
+  "era": "current",
+  "pos": "MID",
+  "rating": 87
+ },
+ {
+  "name": "فرينكي دي يونغ",
+  "club": "برشلونة",
+  "era": "current",
+  "pos": "MID",
+  "rating": 87
+ },
+ {
+  "name": "مارتن زوبيمندي",
+  "club": "أرسنال",
+  "era": "current",
+  "pos": "MID",
+  "rating": 87
+ },
+ {
+  "name": "برونو غيماريش",
+  "club": "نيوكاسل",
+  "era": "current",
+  "pos": "MID",
+  "rating": 86
+ },
+ {
+  "name": "جواو بالينيا",
+  "club": "بايرن ميونخ",
+  "era": "current",
+  "pos": "MID",
+  "rating": 86
+ },
+ {
+  "name": "جافي",
+  "club": "برشلونة",
+  "era": "current",
+  "pos": "MID",
+  "rating": 86
+ },
+ {
+  "name": "فيرمين لوبيز",
+  "club": "برشلونة",
+  "era": "current",
+  "pos": "MID",
+  "rating": 84
+ },
+ {
+  "name": "جيمس مادسون",
+  "club": "توتنهام",
+  "era": "current",
+  "pos": "MID",
+  "rating": 84
+ },
+ {
+  "name": "جاك غريليش",
+  "club": "إيفرتون",
+  "era": "current",
+  "pos": "W",
+  "rating": 84
+ },
+ {
+  "name": "ماركوس راشفورد",
+  "club": "برشلونة",
+  "era": "current",
+  "pos": "W",
+  "rating": 85
+ },
+ {
+  "name": "ألفارو موراتا",
+  "club": "كومو",
+  "era": "current",
+  "pos": "ST",
+  "rating": 83
+ },
+ {
+  "name": "حكيم زياش",
+  "club": "الدحيل",
+  "era": "current",
+  "pos": "W",
+  "rating": 82
+ },
+ {
+  "name": "أشرف بن شرقي",
+  "club": "الزمالك",
+  "era": "current",
+  "pos": "W",
+  "rating": 80
+ },
+ {
+  "name": "إمام عاشور",
+  "club": "الأهلي",
+  "era": "current",
+  "pos": "MID",
+  "rating": 80
+ },
+ {
+  "name": "مصطفى محمد",
+  "club": "نانت",
+  "era": "current",
+  "pos": "ST",
+  "rating": 79
+ },
+ {
+  "name": "سفيان أمرابط",
+  "club": "الأهلي",
+  "era": "current",
+  "pos": "MID",
+  "rating": 82
+ },
+ {
+  "name": "لويجي ريفا",
+  "club": "كالياري",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 93
+ },
+ {
+  "name": "ميروسلاف كلوزه",
+  "club": "لاتسيو",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 93
+ },
+ {
+  "name": "غاري لينيكر",
+  "club": "توتنهام",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 91
+ },
+ {
+  "name": "ديفيد فيا",
+  "club": "برشلونة",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 91
+ },
+ {
+  "name": "فرناندو توريس",
+  "club": "أتلتيكو مدريد",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 91
+ },
+ {
+  "name": "كارلوس تيفيز",
+  "club": "مانشستر يونايتد",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 89
+ },
+ {
+  "name": "ساندرو مازولا",
+  "club": "إنتر ميلان",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 93
+ },
+ {
+  "name": "غيرسون",
+  "club": "ساو باولو",
+  "era": "legend",
+  "pos": "MID",
+  "rating": 93
+ },
+ {
+  "name": "توستاو",
+  "club": "كروزيرو",
+  "era": "legend",
+  "pos": "ST",
+  "rating": 93
+ },
+ {
+  "name": "ماتياس سامر",
+  "club": "بوروسيا دورتموند",
+  "era": "legend",
+  "pos": "CB",
+  "rating": 90
+ },
+ {
+  "name": "بيير فان هوييدونك",
+  "club": "فينورد",
+  "era": "legend",
+  "pos": "GK",
+  "rating": 89
+ }
+]
